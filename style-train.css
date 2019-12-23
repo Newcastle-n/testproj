@@ -1,0 +1,42 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  border: 1px solid rgb(151, 29, 46);
+  box-sizing: border-box;
+}
+@font-face{
+  src: ;
+  font-family: ;
+}
+ul{
+  list-style-type: none;
+}
+a{
+  text-decoration: none;
+  color:rgb(151, 0, 189);
+}
+a:hover{
+  transition: 0.3s;
+}
+.of{
+  overflow: auto;
+}
+.clearf{
+  clear: both;
+}
+ body{
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(13, 127, 172);
+ }
+ input{
+   font-family: ;
+ }
+ textarea{
+   font-family: ;
+   letter-spacing: ;
+ }
+ button{
+   font-family: ;
+ }
+ 
+/* WARNING: Main-codes */
