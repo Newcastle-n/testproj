@@ -40,3 +40,35 @@ a:hover{
  }
  
 /* WARNING: Main-codes */
+
+
+nav{
+  background-color: powderblue;
+  height: 5.5em;
+
+}
+ul li{
+  float: right;
+  overflow: hidden;
+}
+ul {
+  text-align: right;
+  width: 60%;
+  margin-left: auto;
+  
+  
+}
+a{
+  display: block;
+  padding: 2em 1em;
+  overflow: hidden;
+}
+/* .logo{
+  margin-right: auto;
+  width: 12em;
+  background-color: red;
+  height: 100%;
+}
+.img{
+  float: left;
+} */
