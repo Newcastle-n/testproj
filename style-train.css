@@ -63,7 +63,7 @@ a{
   padding: 2em 1em;
   overflow: hidden;
 }
-/* .logo{
+.logo{
   margin-right: auto;
   width: 12em;
   background-color: red;
@@ -71,4 +71,14 @@ a{
 }
 .img{
   float: left;
-} */
+}
+section{
+  display: flex;
+  flex-direction: row-reverse;
+}
+section .right{
+  width: 75%;
+}
+section .left{
+  width: 25%;
+}
