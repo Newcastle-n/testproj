@@ -82,3 +82,10 @@ section .right{
 section .left{
   width: 25%;
 }
+.sec2{
+  background-color: orange;
+}
+.love{
+  background-color: brown;
+
+}
